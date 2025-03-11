@@ -7,7 +7,9 @@
 
 🚀 Data Analyst | SQL | Python | Power BI | Machine Learning
 
- Passionné par le data storytelling & la business intelligence💡 Transformer la data brute en insights actionnables
+ Passionné par le data storytelling & la business intelligence
+ 
+ # "Transformer la data brute en insights actionnables"
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antoine-savournin-3b9277109/">LinkedIn</a> |
