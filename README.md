@@ -17,7 +17,7 @@
 
 👨‍💻 À propos de moi
 
-- Diplômé RNCP niveau 6 en Data Analysis – Wild Code School
+- Diplômé RNCP niveau 6 Data Analyste – Wild Code School
 
 - Basé à Angers, France
 
