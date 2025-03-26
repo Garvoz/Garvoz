@@ -23,13 +23,13 @@
 
 - Basé à Angers, France
 
-- À la recherche d’opportunités en Data Analysis pour développer mes compétences et contribuer à des projets data-driven.
+- À la recherche d’une alternance en Data/IA dans le cadre d'un diplôme Machine Learning Engineer (RNCP niveau 7).
 
 - Passionné par la data, avec un intérêt particulier pour l’analyse en Python, l’exploration SQL et le data storytelling.
 
 - Ouvert aux opportunités en présentiel sur Angers et ses environs ou en télétravail.
 
-- Motivé, curieux et prêt à relever de nouveaux défis analytiques !
+- Motivé, curieux, sympathique et prêt à relever de nouveaux défis analytiques !
 
 
 📂 Mes Projets
