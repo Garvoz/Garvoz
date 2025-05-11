@@ -9,7 +9,7 @@
 
  Passionné par le data storytelling & la business intelligence
  
- # "Transformer la data brute en insights actionnables"
+ ## “Il n’est jamais trop tard pour devenir ce que nous aurions pu être.” – GeorgeEliot
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antoine-savournin-3b9277109/">LinkedIn</a> |
@@ -19,11 +19,11 @@
 
 👨‍💻 À propos de moi
 
-- Diplômé RNCP niveau 6 Data Analyste – Wild Code School
+- Data Analyst – Wild Code School
 
 - Basé à Angers, France
 
-- À la recherche d’une alternance en Data/IA dans le cadre d'un diplôme Machine Learning Engineer (RNCP niveau 7).
+- À la recherche d’une alternance Data Engineer dans le cadre d'un Master 2 Chef de Projet IA.
 
 - Passionné par la data, avec un intérêt particulier pour l’analyse en Python, l’exploration SQL et le data storytelling.
 
@@ -31,6 +31,15 @@
 
 - Motivé, curieux, sympathique et prêt à relever de nouveaux défis analytiques !
 
+🛠️ Compétences Techniques:
+
+- **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn, plotly, regex, request, spaCy, …)
+- **SQL** (SGBDR) : SQLite, PostgreSQL, MySQL – Requêtes complexes, CTE, Window Functions, views – SQL Workbench, DBeaver
+- **Machine Learning** : régression, classification, clustering, NLP, systèmes de recommandation, analyse de sentiments
+- **Data visualisation** : Power BI (DAX), Streamlit, Folium, Tableau, Excel, Power Query
+- **Cloud Computing & Big Data** : AWS (S3, EC2, Redshift, RDS), DBT, pipelines ETL/ELT
+- **Outils et programmation** : Github, Jupyter, VS Code, API REST, JSON, Geocoding, Slack, Docker, Web scraping, ChatGPT, HTML/CSS, développement agile, connaissance RGPD
+- **En cours d’acquisition** :Spark, Hadoop, Azure, Oracle, Snowflake, Gitlab, Talend, BigQuery, Airflow, Dataiku, Hive
 
 📂 Mes Projets
 
@@ -99,7 +108,29 @@ Ce projet a pour objectif de **centraliser, analyser et visualiser les données 
 
 **Découvrir le projet : [AquaVision](https://aquavision.streamlit.app/) 💦**  
 
-4. 🛒 **Optimisation des Coûts et Bénéfices en Retail - Projet Market Price Retail**  
+4. 🍷 **Étude de Marché pour un Domaine Viticole – Projet de Certification**  
+
+**Repo GitHub : [Business Case Domaine des Croix](https://github.com/Garvoz/Domaine-de-la-croix)**  
+
+Ce projet constitue le **projet final de certification Data Analyst – Wild Code School**. Il répond à une demande du **Domaine des Croix**, producteur de Pinot Noir, qui souhaite fixer un **prix compétitif pour ses vins sur le marché américain**.
+
+**Objectif final** : Construire une **analyse complète du marché du vin** à partir d’un dataset de 130k bouteilles, comparer les produits similaires, et recommander un **prix de vente adapté** en s’appuyant sur un **dashboard Power BI** interactif et une **présentation business vulgarisée**.
+
+**Étapes du projet :**  
+- **Nettoyage et transformation des données** (Python, regex, gestion des valeurs manquantes)  
+- **Exploration textuelle** des descriptions œnologiques avec **NLP + WordClouds**  
+- **Analyse du marché international, français et du Pinot Noir**  
+- **Comparaison ciblée des vins similaires** au Domaine des Croix  
+- **Construction d’un dashboard Power BI** en 4 pages : monde, France, Pinot, Domaine  
+- **Recommandation de prix** en fonction de la stratégie du client  
+- **Restitution vulgarisée** à l’aide d’un support PowerPoint professionnel  
+
+**Compétences mises en pratique** : **Python (Pandas, Regex, NLTK), Power BI, DAX, Data Storytelling, Présentation client**.  
+
+📄 [Voir le support de présentation (PDF)](https://github.com/Garvoz/Domaine-de-la-croix/blob/main/livrables_pdf/presentation_domaine_de_la_croix.pdf)
+
+
+5. 🛒 **Optimisation des Coûts et Bénéfices en Retail - Projet Market Price Retail**  
 
 **Repo GitHub : [Market Price Retail](https://github.com/Garvoz/BC_MARKET_RETAIL)**  
 
@@ -116,15 +147,6 @@ Ce projet vise à **analyser les performances commerciales** d'une entreprise de
 
 **Compétences mises en pratique** : **Python (Pandas), Power BI, Data Visualization, KPI, Business Intelligence, Storytelling**.  
 
-
-
-🛠️ Compétences Techniques:
-
-- **Langages** : Python, SQL, DAX
-- **Data Visualisation** : PowerBI, Tableau, Streamlit
-- **Machine Learning** : Scikit-learn (Régression, Classification, Clustering)
-- **Cloud** : AWS (S3, Redshift, RDS, EC2)
-- **Outils** : VS Code, Jupyter Notebooks, Git
 
 
 
