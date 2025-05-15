@@ -45,7 +45,7 @@
 
 # 1. 🎬 **Système de Recommandation de Films - Projet Alicine**  
 
-    **Repo GitHub : [Alicine sur GitHub](https://github.com/Garvoz/Alicine)**  
+**Repo GitHub : [Alicine sur GitHub](https://github.com/Garvoz/Alicine)**  
 
 Ce projet consiste à **développer un moteur de recommandation de films** pour un cinéma local en difficulté, souhaitant proposer une expérience digitale à ses clients. Face à une situation de **cold start** (aucune donnée utilisateur initiale), l’analyse repose sur des bases de données issues d’**IMDb** et **TMDB**, permettant d’extraire des insights clés sur le cinéma et d’entraîner un modèle de machine learning.  
 
