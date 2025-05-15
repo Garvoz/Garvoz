@@ -9,7 +9,7 @@
 
  Passionné par le data storytelling & la business intelligence
  
- ## “Il n’est jamais trop tard pour devenir ce que nous aurions pu être.” – GeorgeEliot
+ ## “Il n’est jamais trop tard pour devenir ce que nous aurions pu être.” – George Eliot
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antoine-savournin-3b9277109/">LinkedIn</a> |
@@ -43,7 +43,7 @@
 
 📂 Mes Projets
 
-1. 🎬 **Système de Recommandation de Films - Projet Alicine**  
+# 1. 🎬 **Système de Recommandation de Films - Projet Alicine**  
 
     **Repo GitHub : [Alicine sur GitHub](https://github.com/Garvoz/Alicine)**  
 
@@ -66,7 +66,7 @@ Ce projet consiste à **développer un moteur de recommandation de films** pour 
 
 
 
-2. 🏫 **Analyse de la Santé Mentale Étudiante - Projet CampusCARE**  
+# 2. 🏫 **Analyse de la Santé Mentale Étudiante - Projet CampusCARE**  
 
 **Repo GitHub : [CampusCARE sur GitHub](https://github.com/Garvoz/CampusCARE)**  
 
@@ -88,7 +88,7 @@ Ce projet vise à **analyser et prédire les facteurs influençant la santé men
 **Découvrir le projet : [CampusCARE](https://campuscare.streamlit.app/) 🏥**  
 
 
-3. 💧 **Analyse et Visualisation de la Qualité de l’Eau - Projet AquaVision**  
+# 3. 💧 **Analyse et Visualisation de la Qualité de l’Eau - Projet AquaVision**  
 
 **Repo GitHub : [AquaVision sur Github](https://github.com/Garvoz/AquaVision)**  
 
@@ -108,7 +108,7 @@ Ce projet a pour objectif de **centraliser, analyser et visualiser les données 
 
 **Découvrir le projet : [AquaVision](https://aquavision.streamlit.app/) 💦**  
 
-4. 🍷 **Étude de Marché pour un Domaine Viticole – Projet de Certification**  
+# 4. 🍷 **Étude de Marché pour un Domaine Viticole – Projet de Certification**  
 
 **Repo GitHub : [Business Case Domaine des Croix](https://github.com/Garvoz/Domaine-de-la-croix)**  
 
@@ -130,7 +130,7 @@ Ce projet constitue le **projet final de certification Data Analyst – Wild Cod
 📄 [Voir le support de présentation (PDF)](https://github.com/Garvoz/Domaine-de-la-croix/blob/main/livrables_pdf/presentation_domaine_de_la_croix.pdf)
 
 
-5. 🛒 **Optimisation des Coûts et Bénéfices en Retail - Projet Market Price Retail**  
+# 5. 🛒 **Optimisation des Coûts et Bénéfices en Retail - Projet Market Price Retail**  
 
 **Repo GitHub : [Market Price Retail](https://github.com/Garvoz/BC_MARKET_RETAIL)**  
 
